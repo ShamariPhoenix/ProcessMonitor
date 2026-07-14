@@ -1,0 +1,1 @@
+The program collects information about running processes using the psutil library, including process IDs, memory usage, CPU time, usernames, and process status. The data is displayed in a sorted table, summarized by user, exported to an HTML report, and visualized with a bar graph showing the highest resource-consuming processes.
